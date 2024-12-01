@@ -1,0 +1,6 @@
+[submodule "fronted"]
+	path = fronted
+	url = https://github.com/Aserturik/invoice-flutter.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Aserturik/Pet-Shop-Inventory.git
